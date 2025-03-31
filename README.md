@@ -47,3 +47,7 @@ BENEFITS:-
 1. Simple and Efficient: RLE is a simple and efficient compression algorithm that is easy to implement and understand.
 2. Fast Compression and Decompression: RLE compression and decompression are fast operations that can be performed quickly, even on large files.
 3. Low Memory Requirements: The RLE Compression Tool has low memory requirements, making it suitable for use on systems with limited memory.
+
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/11c952cb-c445-4cd1-b43b-fc1f6f8c7e18)
